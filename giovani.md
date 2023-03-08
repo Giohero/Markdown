@@ -1,16 +1,13 @@
 # Hello, I'm Giovani Rodriguez,
-## Musician-programmer with creative and technical skills 
-I am a C# backend developer from Mexico willing to learn and put into practice all my knowledge to produce unique results and meet the needs of your audience or users.
-# About to finish my career as a Software Engineer
-I am a musician and C# backend developer from Mexico willing to learn and put into practice all my knowledge to produce unique results and satisfy the needs of your audience or users.
-## Comandos Tabla 
-|Alias	|Comando              |
-|-------|---------------------|
-|chm7	|chmod 764 archivo.txt|
-|les    |less -m readme.txt   |
-|findd	|`ls ~/ | grep $1"    |
-|npmd	|npm run dev          |
-|npms	|npm start            |
-|rm  	|trash                |
-|cl	    |clear                |
-|cafe	|cat /dev/urandom | hexdump | grep \"ca fe\""                    |
+### 🎼 Musician-programmer with creative and technical skills 💻
+As a music programmer and backend developer I can be the key to take your music and technology projects to the next level. I have a unique combination of technical and creative skills to transform your ideas into innovative and attractive solutions for the end user. So don't wait any longer and be amazed by the intuitive and visually appealing designs I can make to bring your applications and websites to life.
+
+## A little about me
+- 👨‍💻 I am currently in the process of finishing my degree in Software Engineering.
+- 👨‍🏫 I’m currently learning JavaScript, React and Git
+- 📲 I am looking to collaborate on Mobile Applications or Web projects.
+- 🎬 I enjoy watching Anime & Movies
+- 🎮 I really like video games, especially Zelda Breath of the Wild !!!!!
+
+
+![Alt Text](https://i.redd.it/g0upkrt886a91.gif ) 
